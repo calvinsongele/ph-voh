@@ -6,5 +6,5 @@ require vender/ph-voh
 
 /***************
 buy me coffee
-buymeacoffee.com/homekazi
+https://buymeacoffee.com/homekazi
 **********************************/
