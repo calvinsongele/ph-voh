@@ -1,0 +1,30 @@
+{
+    "name": "vendor/ph-voh",
+    "description": "A framework built with simplicity in mind. With a little of laravel touch in mind in a simplified form. Get it for free.",
+    "type": "library",
+    "license": "MIT", 
+    "authors": [
+        {
+            "name": "Calvins Ongele",
+            "email": "calvinsongele@gmail.com",
+            "homepage": "https://elightmarket.com/portfolio",
+            "role":"developer"
+        }
+    ],
+
+    
+    "funding": [
+        {
+            "type": "Buy Me a Coffee",
+            "url": "https://buymeacoffee.com/homekazi"
+        } 
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vendor\\PackageName\\": "src/"
+        }
+    }
+}
